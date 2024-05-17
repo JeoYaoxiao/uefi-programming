@@ -1,4 +1,4 @@
-#uefi原理与编程
+# uefi原理与编程
 <table border=0><tr><td valign='top'><a href="#QuickStart"><b>QuickStart</b><a><br><a href='#Correction'><b>勘误</b></a><br></td><td><img src="http://images.cppblog.com/cppblog_com/djxzh/uefi_principles_and_programming_1.jpg" width="600"></td></tr></table>
 <div class="vt" id="wikimaincol">
  <h1><a name="QuickStart">编译源代码的步骤：</a></h1>
